@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice Ui</string>
+    <string name="title">Little Lemon</string>
+    <string name="city">Peshawar</string>
+    <string name="order">Order</string>
+    <string name="descriptionOne"> we are family owned Afghan restaurant, for afghan cuisine served
+    with a modern twist.</string>
+    <string name="btn1">Enter</string>
+</resources>

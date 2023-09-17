@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice Ui</string>
+    <string name="title">Little Lemon</string>
+    <string name="city">Peshawar</string>
+    <string name="order">Order</string>
+    <string name="descriptionOne"> We are a family owned Afghan restaurant, for afghan cuisine served
+    with a modern twist and a great taste, Pakhair Raghle.</string>
+</resources>
